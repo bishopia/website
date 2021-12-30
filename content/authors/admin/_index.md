@@ -28,7 +28,7 @@ education:
   courses:
   - course: Ph.D. Oceanography
     institution: Graduate School of Oceanography, University of Rhode Island 
-    year: expected, 2023
+    year: expected 2023
   - course: B.A. Marine Science with History minor
     institution: University of San Diego
     year: 2016
