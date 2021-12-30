@@ -1,15 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Variability Approaching the Thermal Limits Can Drive Diatom Community Dynamics
+title: Characteristics of global port phytoplankton and implications for current ballast water regulations
 subtitle: ''
-summary: ''
-authors: ["**Stephanie I. Anderson**", "Tatiana A. Rynearson"]
-#- "**Stephanie I. Anderson**"
-#- Tatiana A. Rynearson
+summary: 'We evaluated how ballast water regulations align with natural phytoplankton communities using data from 31 global shipping ports.'
+authors: ["Brenda M. Soler-Figueroa, **Diana N. Fontaine**, Katharine J. Carney, Gregory M. Ruiz, Mario N. Tamburri"]
 tags: []
 categories: []
-date: '2020-01-01'
+date: '2020-05-11'
 lastmod: 2021-01-29T23:46:48-05:00
 featured: false
 draft: false
@@ -27,14 +25,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ['Thermal_Traits']
+#projects: ['Ballast Water']
 publishDate: '2021-01-30T04:46:47.290197Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Limnology and Oceanography*'
+publication: '*Marine Pollution Bulletin*'
 doi: 10.1002/lno.11430
-links:
-url_dataset: https://www.bco-dmo.org/project/712787
-url_code: https://github.com/sianderson/variability_thermal_limits
+#links:
 ---
