@@ -1,12 +1,11 @@
 ---
-title: Temperature-Nutrient Interplay
-summary: Investigating the interactive effects of temperature and nutrient availability on phytoplankton community composition
+title: Diatom Composition in Narragansett Bay 
+summary: Using metabarcoding to investigate the environmental drivers of diatom composition.
 tags:
-- Species Sorting
-- Trait-based ecology
+- Metabarcoding
 - Temperature
 
-date: "2017-03-01"
+date: "2020-07-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
