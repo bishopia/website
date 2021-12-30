@@ -44,18 +44,19 @@ social:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Ir9oVsgAAAAJ&hl=en
-- icon: github
+- icon: twitter
   icon_pack: fab
-  link: https://github.com/difontaine
+  link: https://twitter.com/beoceanminded_
 - icon: linkedin
   icon_pack: fab
   link:  https://www.linkedin.com/in/diana-fontaine-a59b66160/
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/be.ocean.minded/?hl=en
-- icon: twitter
+- icon: github
   icon_pack: fab
-  link: https://twitter.com/beoceanminded_
+  link: https://github.com/difontaine
+
 
 background-image: DM_Cdeb.jpg
 
