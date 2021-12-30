@@ -1,40 +1,37 @@
 ---
 # Display name
-title: Stephanie I. Anderson
+title: Diana N. Fontaine
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Simons Foundation Postdoctoral Fellow
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Massachusetts Institute of Technology
-  url: https://web.mit.edu/
+- name: Graduate School of Oceanography
+  url: https://web.uri.edu/gso/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Trait-based ecology
-- Thermal adaptation
-- Ecological modeling
-- Story-telling
+- Phytoplankton Ecology
+- Molecular Ecology
+- Writing
+- Science Communication
 
 # Education to show in About widget
 education:
   courses:
   - course: Ph.D. Oceanography
-    institution: University of Rhode Island
-    year: 2021
-  - course: Single Subject Teaching Credential
-    institution: Loyola Marymount University
-    year: 2013
-  - course: B.A. Molecular, Cellular & Developmental Biology
-    institution: University of Colorado Boulder
-    year: 2012
+    institution: Graduate School of Oceanography, University of Rhode Island 
+    year: expected, 2023
+  - course: B.A. Marine Science with History minor
+    institution: University of San Diego
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,19 +43,19 @@ social:
   link: '/#contact'
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=2f4PMicAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.com/citations?user=Ir9oVsgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/sianderson
+  link: https://github.com/difontaine
 - icon: linkedin
   icon_pack: fab
-  link:  https://www.linkedin.com/in/stephanieianderson/
+  link:  https://www.linkedin.com/in/diana-fontaine-a59b66160/
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/cellsofglass/
+  link: https://www.instagram.com/be.ocean.minded/?hl=en
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/CellsOfGlass
+  link: https://twitter.com/beoceanminded_
 
 background-image: DM_Cdeb.jpg
 
@@ -70,13 +67,10 @@ background-image: DM_Cdeb.jpg
 #   link: Anderson_CV_Sept2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "fontained@uri.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 highlight_superuser: true
 ---
-
-I am a  <a href="https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/">Simons Foundation Postdoctoral Fellow in Marine Microbial Ecology</a> at the <a href="https://web.mit.edu/">Massachusetts Institute of Technology</a>. I work under the direction of <a href="http://ocean.mit.edu/~stephd/">Dr. Stephanie Dutkiewicz</a> examining phytoplankton thermal trait diffferentiation and evolution.
-
-For my doctoral dissertation with <a href="https://web.uri.edu/rynearson-lab/">Dr. Tatiana Rynearson</a> at the <a href="https://web.uri.edu/gso/">University of Rhode Island Graduate School of Oceanography</a>, I examined the abiotic factors that shape phytoplankton communities. I employed experimental, molecular, and modeling approaches to investigate the role of temperature in driving phytoplankton physiology, community structure, and biogeography. 
+I am a field-going oceanographer who uses molecular techniques and bioinfomatics to investigate phytoplankton community composition and productivity.
