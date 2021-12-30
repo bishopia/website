@@ -7,7 +7,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 5
 
 # ... Put Your Section Options Here (section position etc.) ...
 
@@ -17,18 +17,21 @@ interval: 4000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 350px
+#height: 300px
+
 
 
 item:
-  - #title: Hello
+  - title: Welcome
     #content: 'I am center aligned 😄'
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     #overlay_color: '#666'  # An HTML color value.
-    overlay_img: Skeletonema.jpg  # Image path relative to your `static/media/` folder
+    overlay_img: self.jpg  # Image path relative to your `static/media/` folder
+    width: 550px
+    height: 420px
     #overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.

@@ -18,6 +18,11 @@
   url = "publication/"  # Widget Page folder name.
   weight = 30  # Position of the link in the navigation bar.
 
+[[main]]
+  name = "Public Engagement"
+  url = "publicengagement/"
+  weight = 40
+
 #[[main]]
 #  name = "Posts"  # Title of the link.
 #  url = "post/"  # Widget Page folder name.
@@ -25,7 +30,7 @@
 
 [[main]]
   name = "CV"  # Title of the link.
-  url = "files/Anderson_CV_Nov2021.pdf" 
+  url = "files/Fontaine_CV_04_13_2021.pdf" 
   weight = 50  # Position of the link in the navigation bar.
   
 
@@ -36,7 +41,4 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "media/resume.pdf"
-#    weight = 70
+

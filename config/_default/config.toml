@@ -14,7 +14,7 @@ baseurl = "https://diana-fontaine1.netlify.app"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; Diana N. Fontaine {2021}"
+copyright = "&copy; Diana N. Fontaine {2021} using GitHub repo forked from <a href='https://github.com/sianderson/sianderson.github.io'>Stephanie Anderson</a>"
 
 ############################
 ## Advanced options below ##
