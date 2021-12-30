@@ -1,13 +1,11 @@
 ---
-title: Thermal Traits
-summary: Characterizing the phytoplankton thermal response and employing empirical data in ecological simulations and global projections
+title: Ballast Water
+summary: As a plankton analyst in the Marine Invasions Lab at the Smithsonian Environmental Research Center, I worked with a team of scientists to test ballast water treatment systems.
 tags:
-- Temperature
-- Trait-based ecology
-- Modeling
-- Global change
+- Ballast water
+- Invasive species
 
-date: "2020-02-01"
+date: "2026-06-20"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
