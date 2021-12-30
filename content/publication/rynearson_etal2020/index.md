@@ -35,5 +35,5 @@ abstract: "Diatoms generate nearly half of marine primary production and are com
 publication: 'Biology'
 doi: 10.3390/biology9010019
 links:
-url_pdf: https://www.mdpi.com/2079-7737/9/1/19
+url_link: https://www.mdpi.com/2079-7737/9/1/19
 ---
