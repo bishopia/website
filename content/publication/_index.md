@@ -11,6 +11,6 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
-  image: "Phytoplankton_onblack.jpg"
+  caption: "CTD at sunset on the *R/V Armstrong*"
+  image: "arctd.JPG"
 ---

@@ -58,7 +58,7 @@ social:
   link: https://github.com/difontaine
 
 
-background-image: DM_Cdeb.jpg
+background-image: Enctd_web.png
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 

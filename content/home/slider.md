@@ -13,11 +13,11 @@ weight: 5
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval: 4000
+interval: 5000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-#height: 300px
+height: 300px
 
 
 
@@ -25,13 +25,11 @@ item:
   - title: Welcome
     #content: 'I am center aligned 😄'
     # Choose `center`, `left`, or `right` alignment.
-    align: center
+    align: right
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     #overlay_color: '#666'  # An HTML color value.
     overlay_img: self.jpg  # Image path relative to your `static/media/` folder
-    width: 550px
-    height: 420px
     #overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
@@ -44,11 +42,11 @@ item:
     #content: 'I am left aligned 😄'
     #align: left
     #overlay_color: '#555'
-    overlay_img: 'Phytoplankton.jpg'
+    overlay_img: 'jcctd.jpg'
     #overlay_filter: 0.5
   - #title: Right
     #align: right
     #overlay_color: '#333'
-    overlay_img: 'Diatoms.jpg'
+    overlay_img: 'Jcstern.jpg'
     #overlay_filter: 0.5
 ---

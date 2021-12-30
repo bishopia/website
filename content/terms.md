@@ -7,7 +7,7 @@ commentable: false
 editable: false
 
 # Optional header image (relative to `static/media/` folder).
-header:
+header: 
   caption: ""
   image: ""
 ---
