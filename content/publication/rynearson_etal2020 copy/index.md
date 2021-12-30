@@ -4,13 +4,11 @@
 title: Metabarcoding Reveals Temporal Patterns of Community Composition and Realized Thermal Niches of Thalassiosira Spp. (Bacillariophyceae) from the Narragansett Bay Long-Term Plankton Time Series
 subtitle: ''
 summary: ''
-authors: ["Tatiana A. Rynearson, Sarah A. Flickinger, **Diana N. Fontaine**"]
-#- "**Stephanie I. Anderson**"
-#- Tatiana A. Rynearson
+authors: ["Tatiana A. Rynearson, Sarah A. Flickinger, Diana N. Fontaine"]
 tags: []
 categories: []
 date: '2020-1-16'
-lastmod: 2021-01-29T23:46:48-05:00
+lastmod: 2020-01-29T23:46:48-05:00
 featured: false
 draft: false
 
