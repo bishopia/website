@@ -45,4 +45,4 @@ design:
 I am a Ph.D. Candidate in <a href="https://web.uri.edu/rynearson-lab/">Dr. Tatiana Rynearson's</a> lab at the <a href="https://web.uri.edu/gso/">University of Rhode Island Graduate School of Oceanography</a>. As a field-going oceanographer, I am interested in understanding how environmental stressors associated with climate change affect phytoplankton community dynamics and thus, overall ecosystem function.
 
 I value science communication and believe it is important to connect my scientific research to the broader public sphere to portray the necessity of ocean research during a time of environmental change. I am the current Editor-in-Chief of <a href="https://oceanbites.org">oceanbites</a>, a blog that translates recent scientific research for the general public. I love writing of all kinds. As a consultant in <a href='https://web.uri.edu/graduate-writing-center/'>URI’s Graduate Writing Center</a>, I work with fellow graduate students on their writing. I have also written various blog posts that you can check out on my
-[Public Engagement](/content/publicengagement.md) page.
+[Public Engagement](/publicengagement) page.
