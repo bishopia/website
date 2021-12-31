@@ -1,6 +1,6 @@
 ---
 title: Diatom Composition in Narragansett Bay 
-summary: Using metabarcoding to investigate the environmental drivers of diatom composition.
+summary: Diatoms come in many different sizes and play various roles in aquatic ecosystems. This project uses metabarcoding to investigate the environmental drivers of diatom composition.
 tags:
 - Metabarcoding
 - Temperature

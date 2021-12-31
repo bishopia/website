@@ -1,6 +1,6 @@
 ---
 title: Phytoplankton Composition and Productivity  
-summary: Part of my dissertation involves work with both the <a href="https://nes-lter.whoi.edu">Northeast US Shelf Long-term Ecological Research Project</a> and the <a href="https://oceanexports.org">NASA EXPORTS</a> project. Within these projects, I have been examining temporal patterns of size-fractionated primary production and phytoplankton community composition. 
+summary: Part of my dissertation involves work with both the <a href="https://nes-lter.whoi.edu">Northeast US Shelf Long-term Ecological Research</a> project and the <a href="https://oceanexports.org">NASA EXPORTS</a> project. Within these projects, I have been examining temporal patterns of size-fractionated primary production and phytoplankton community composition. 
 
 tags:
 - Community Composition
