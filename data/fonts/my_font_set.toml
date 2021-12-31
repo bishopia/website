@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "family=Mulish:wght@200&family=Playfair+Display:ital,wght@0,400;1,500&family=Pushster&family=Roboto:wght@100"
+
+# Font families
+heading_font = "Monsterrat"
+body_font = "Playfair Display"
+nav_font = "Roboto"
+mono_font = "Roboto Mono"

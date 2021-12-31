@@ -35,6 +35,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-{{< figure library="true" src="diatoms.jpg" title="*Coscinodiscus* diatom cells on a NES-LTER cruise" >}}
-
 Diatoms, a type of phytoplankton, range in size across multiple orders of magnitude. Their size plays an important role in the biogeochemical cycling within marine systems. Here, we used metabarcoding to investigate the role of environmental factors  in shaping temporal patterns of the diatom community in Narragansett Bay. 
