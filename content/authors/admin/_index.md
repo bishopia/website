@@ -74,4 +74,4 @@ email: "fontained@uri.edu"
 highlight_name: true
 highlight_superuser: true
 ---
-I am a field-going oceanographer who uses molecular techniques and bioinfomatics to investigate phytoplankton community composition and productivity.
+You will often find me on a research ship in the middle of the ocean. As an active field-going oceanographer, I use molecular techniques to investigate phytoplankton community composition and productivity.
