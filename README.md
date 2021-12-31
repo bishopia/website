@@ -1,6 +1,6 @@
 # Academic Template
 
-The code here is used to generate [sianderson.github.io](https://sianderson.github.io).
+The code here is used to generate [diana-fontaine1.netlify.app/](http://diana-fontaine1.netlify.app/).
 
 ## Notes on Template
  
