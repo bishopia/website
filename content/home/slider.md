@@ -48,5 +48,5 @@ item:
     #align: right
     #overlay_color: '#333'
     overlay_img: 'Jcstern.jpg'
-    #overlay_filter: 0.5
+    overlay_filter: 0.5
 ---
