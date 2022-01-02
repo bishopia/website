@@ -29,7 +29,7 @@ item:
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     #overlay_color: '#666'  # An HTML color value.
-    overlay_img: self_cropped.jpg  # Image path relative to your `static/media/` folder
+    img: self_cropped.jpg  # Image path relative to your `static/media/` folder
     #overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
@@ -42,11 +42,11 @@ item:
     #content: 'I am left aligned 😄'
     #align: left
     #overlay_color: '#555'
-    overlay_img: 'jcctd.jpg'
+    img: 'jcctd.jpg'
     #overlay_filter: 0.5
   - #title: Right
     #align: right
     #overlay_color: '#333'
-    overlay_img: 'Jcstern.jpg'
-    overlay_filter: 0.5
+    img: 'Jcstern.jpg'
+    #overlay_filter: 0.5
 ---
